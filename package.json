@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-atdd",
+  "version": "1.0.0",
+  "main": "acceptance.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:watch": "cucumber-js --publish-quiet"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "^12.6.0"
+  }
+}

@@ -1,7 +1,5 @@
 # Calculadora ATDD/BDD
 
-![CI](https://github.com/IsaqueBeltrao/atdd-calculadora/actions/workflows/ci.yml/badge.svg)
-
 Projeto profissional de Calculadora usando **Behavior Driven Development (BDD)** com **Cucumber**.
 
 ## 🚀 O que foi evoluído
